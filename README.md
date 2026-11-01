@@ -103,9 +103,6 @@ A responsive business homepage built with Next.js and Tailwind CSS for a real cl
   <a href="https://linkedin.com/in/syeda-fizza-fatima-79ab582bb" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://frizvi7212.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
